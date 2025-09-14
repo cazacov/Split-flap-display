@@ -1,0 +1,9 @@
+# 2 space indentation
+[*.h]
+indent_style = space
+indent_size = 2
+
+# 2 space indentation
+[*.cpp]
+indent_style = space
+indent_size = 2
