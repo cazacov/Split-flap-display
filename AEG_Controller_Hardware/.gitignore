@@ -1,0 +1,6 @@
+*-backups
+~*
+*.rar
+*-cache
+fabrication-*
+production/*
